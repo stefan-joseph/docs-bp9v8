@@ -1,2 +1,2 @@
-# docs-bp9v8
-Documentation repository created by Radiant Docs
+# rd-nz57tdedz7
+Managed docs repository for nz57tdedz7
